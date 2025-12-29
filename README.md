@@ -39,9 +39,11 @@
 
 ---
 
-#### Technology Stack
-| Component | Technology | Purpose |
+---
 
+#### Technology Stack
+
+| Component | Technology | Purpose |
 | :--- | :--- | :--- |
 | **Frontend** | React.js (Vite) | Lightning-fast SPA User Interface |
 | **Styling** | Tailwind CSS | Modern, responsive design & Dark Mode |
@@ -116,13 +118,13 @@ support-autopilot/
 │   │   ├── components/    # Sidebar, Navbar
 │   │   └── contexts/      # Auth & Theme Context
 ```
-
+---
 Contributing
 Contributions are welcome! Please fork the repository and create a pull request.
 
 📄 License
 This project is licensed under the MIT License.
-
-### Developed by Mujtaba Ali : 
-##### AI & Data Scientist
+---
+#### Developed by Mujtaba Ali : 
+AI & Data Scientist
 
