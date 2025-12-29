@@ -46,7 +46,7 @@ oauth2_scheme = OAuth2PasswordBearer(tokenUrl="/api/login")
 
 # --- AI CONFIGURATION ---
 # YOUR KEY
-GOOGLE_API_KEY = "YOUR_GOOGLE_API_KEY_HERE"
+GOOGLE_API_KEY = "AIzaSyDa5udV9RD7GPCsYlYzu684lPzGvhdnbPU"
 
 model = None
 

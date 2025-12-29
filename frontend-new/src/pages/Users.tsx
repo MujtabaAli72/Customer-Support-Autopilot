@@ -3,10 +3,11 @@ import { User, Mail, Phone, Shield, Search, Plus } from 'lucide-react';
 export default function Users() {
   const users = [
     { id: 1, name: 'Mujtaba Ali', email: 'm.elya1412@gmail.com', role: 'Admin', status: 'Active' },
-    { id: 2, name: 'Iqbal Tahir', email: 'iqbaltahirmir@gmail.com', role: 'Support Agent', status: 'Active' },
+    { id: 2, name: 'Iqbal', email: 'iqbaltahirmir@gmail.com', role: 'Support Agent', status: 'Active' },
     { id: 3, name: 'Elya', email: 'elya@example.com', role: 'Viewer', status: 'Active' },
-    { id: 4, name: 'Saeed Abbas', email: 'abbas@example.com', role: 'Support Agent', status: 'Active' },
-    { id: 5, name: 'Alam', email: 'alam@example.com', role: 'Designer', status: 'Active' },
+    { id: 4, name: 'Ali', email: 'ali@example.com', role: 'Support Agent', status: 'Active' },
+    { id: 5, name: 'Diya', email: 'diya@example.com', role: 'Designer', status: 'Active' },
+    { id: 6, name: 'Madiha', email: 'madiha@example.com', role: 'Designer', status: 'Active' },
   ];    
 
 
